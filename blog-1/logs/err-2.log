@@ -1,0 +1,480 @@
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\controller\user.js:14
+const login = (username, password)=>{
+      ^
+
+SyntaxError: Identifier 'login' has already been declared
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\src\router\user.js:43
+    let  registerExist(username)
+                      ^
+
+SyntaxError: Unexpected token '('
+    at Module._compile (internal/modules/cjs/loader.js:892:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:849:19)
+    at Module.Hook._require.Module.require (C:\Users\zhuxiaole\AppData\Roaming\npm\node_modules\pm2\node_modules\_require-in-the-middle@4.0.1@require-in-the-middle\index.js:70:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\zhuxiaole\Desktop\node-blog-videoStudy\blog-1\app.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
